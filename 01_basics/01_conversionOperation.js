@@ -26,10 +26,10 @@ console.log(booleanIsLoggedIn);
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
 */
-let isLoggedIn = "33"
+// let isLoggedIn = "33"
 
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn);
 
 // let isLoggedIn = "1"
 
@@ -48,10 +48,10 @@ console.log(booleanIsLoggedIn);
 // console.log(typeof stringNumber);
 
 
-console.log("1" + 2);
-console.log(1 + "2");
-console.log("1" + 2 + 2);
-console.log(1 + 2 + 2);
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + 2);
 
 // learn prefix and postfix
 
@@ -60,9 +60,9 @@ console.log(1 + 2 + 2);
 
 // *********************************
 
-let gameCounter = 100
-gameCounter++;
-console.log(gameCounter)
+// let gameCounter = 100
+// gameCounter++;
+// console.log(gameCounter)
 
-PREFIX Operator or POSTFIX Operators
+// PREFIX Operator or POSTFIX Operators
 
